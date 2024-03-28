@@ -1,4 +1,4 @@
-# Práticas: certificados SSL
+# Prática: certificados SSL
 
 ## Equipe:
 
